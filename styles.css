@@ -51,12 +51,16 @@ body {
 }
 
 .text {
-  font-size: 1.75rem;
+  font-size: 2rem;
   margin: 1rem;
 }
 
 .center {
   text-align: center;
+}
+
+p {
+  line-height: 45px;
 }
 
 .slide-with-list > .image-right > img {
