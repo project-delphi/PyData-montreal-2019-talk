@@ -4,13 +4,17 @@ body {
 }
 
 .container {
-  padding: 4rem 3rem;  
+  padding: 4rem 0;  
+}
+
+.container-2 {
+  padding: 4rem 3rem;
 }
 
 .header {
   height: 7rem;
   display: flex;
-  font-size: 1.75rem;
+  font-size: 1.45rem;
 }
 
 .title {
@@ -24,8 +28,10 @@ body {
   align-self: center;
 }
 
-.twitter > span > i {
-  color: #1da1f2;
+.list-center {
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .image > img{
@@ -45,9 +51,9 @@ body {
 }
 
 .text-list {
-  font-size: 1.75rem;
-  line-height: 2.5rem;
-  letter-spacing: 2px;
+  font-size: 2.25rem;
+  line-height: 5.5rem;
+  letter-spacing: 1px;
 }
 
 .text {
@@ -63,8 +69,14 @@ p {
   line-height: 45px;
 }
 
+span {
+  display: block;
+  text-align: center;
+  font-size: 3.45rem;
+}
+
 .slide-with-list > .image-right > img {
-  height: 18rem;
+  height: 22rem;
 }
 
 .col-1 {
@@ -76,5 +88,10 @@ p {
 }
 
 .col-3 {
-  width: 15rem;
+  width: 23rem;
+  display: flex;
+}
+
+.col-3 > .twitter-icon {
+  color: #1da1f2;
 }
