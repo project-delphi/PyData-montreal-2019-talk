@@ -92,6 +92,6 @@ span {
   display: flex;
 }
 
-.col-3 > .twitter-icon {
+.fa-twitter{
   color: #1da1f2;
 }
