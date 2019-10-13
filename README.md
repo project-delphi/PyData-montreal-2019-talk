@@ -2,7 +2,7 @@
 
 ![](./presentation/images/pyData-Montreal.png)
 
-Here are my slides at PyData Montreal.
+Here are my slides at PyData Montreal September 2019.
 
 An imporant topic in our community is how to turn jupyter notebooks into production ready code. I can't say that I have all the solutions, but I share some of my pains and reflections.
 
