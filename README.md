@@ -1,6 +1,6 @@
 # PyData Montreal 2019
 
-![](./presentation/images/PyData-montreal-2019-talk.png)
+![](./presentation/images/pyData-Montreal.png)
 
 Here are my slides at PyData Montreal.
 
